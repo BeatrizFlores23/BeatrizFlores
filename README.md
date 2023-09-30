@@ -17,5 +17,7 @@
  	<a href="https://www.twitch.tv/belatrizflores" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/beatrizflores_" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  </div>
- 
+
+ ![20230930_140426](https://github.com/BeatrizFlores23/BeatrizFlores/assets/145884902/829b9b27-eee0-47b0-b25e-2c1a0322b602)
+
 
